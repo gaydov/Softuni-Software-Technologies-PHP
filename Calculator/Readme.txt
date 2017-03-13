@@ -1,1 +1,1 @@
-These are only the modified files by me and NOT the whole project.
+These are only the modified files by me(according to the task) and NOT the whole project.
